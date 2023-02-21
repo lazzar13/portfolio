@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.abf6c05e.css",
-    "main.js": "/portfolio/static/js/main.f6ec39cf.js",
+    "main.css": "/portfolio/static/css/main.dfa06630.css",
+    "main.js": "/portfolio/static/js/main.ecc8d8b1.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/skills.png": "/portfolio/static/media/skills.e0d2ae684fb8eb0fa74b.png",
     "static/media/background2experiment.png": "/portfolio/static/media/background2experiment.302cb331c75926a7e6d1.png",
@@ -9,7 +9,6 @@
     "static/media/backgroundBig.png": "/portfolio/static/media/backgroundBig.ac04ba6b561aab192781.png",
     "static/media/background2.png": "/portfolio/static/media/background2.7790d01a048ec0acb3a1.png",
     "static/media/background.png": "/portfolio/static/media/background.598eab0d9bfb922e46c6.png",
-    "static/media/skillsSE.png": "/portfolio/static/media/skillsSE.c7148d4d92ebf085c89d.png",
     "static/media/background1.png": "/portfolio/static/media/background1.28a49ce6e207db6371c7.png",
     "static/media/python.png": "/portfolio/static/media/python.77e1249ce534c23fdde8.png",
     "static/media/education.png": "/portfolio/static/media/education.0547bab468c697ffc11a.png",
@@ -21,12 +20,14 @@
     "static/media/cplus.png": "/portfolio/static/media/cplus.5185ce2f4c945505ee4f.png",
     "static/media/backgroundSE.png": "/portfolio/static/media/backgroundSE.6a808725892946b33d06.png",
     "static/media/MorantCapitals-ywyXm.ttf": "/portfolio/static/media/MorantCapitals-ywyXm.97a6f96bb26b063875c1.ttf",
+    "static/media/BGRse.png": "/portfolio/static/media/BGRse.428759e31a3db9e8670b.png",
     "static/media/ExperienceCard.png": "/portfolio/static/media/ExperienceCard.9dc852174225a49de732.png",
     "static/media/css.png": "/portfolio/static/media/css.2b47413b7fdde930e789.png",
     "static/media/freetime.png": "/portfolio/static/media/freetime.4b84acc3fd15415c7b8b.png",
     "static/media/AndroidStudio.png": "/portfolio/static/media/AndroidStudio.b86fa566121eff57db40.png",
     "static/media/wip.png": "/portfolio/static/media/wip.fc316a7c99dc4d9c8fab.png",
     "static/media/certificate.png": "/portfolio/static/media/certificate.2fcdd6fba85c0f58b965.png",
+    "static/media/skillsSE.png": "/portfolio/static/media/skillsSE.1c086992e0f081707f1e.png",
     "static/media/nodejs.png": "/portfolio/static/media/nodejs.36eee67eb18797cbfcca.png",
     "static/media/sponge.png": "/portfolio/static/media/sponge.9aa791967488357ee02c.png",
     "static/media/mysql.png": "/portfolio/static/media/mysql.7d8d571e5629923eaf74.png",
@@ -41,12 +42,12 @@
     "static/media/Hermes-Regular.otf": "/portfolio/static/media/Hermes-Regular.92c4dd68280f72a3430f.otf",
     "static/media/firebase.png": "/portfolio/static/media/firebase.a4156cb67d6d0676cffc.png",
     "index.html": "/portfolio/index.html",
-    "main.abf6c05e.css.map": "/portfolio/static/css/main.abf6c05e.css.map",
-    "main.f6ec39cf.js.map": "/portfolio/static/js/main.f6ec39cf.js.map",
+    "main.dfa06630.css.map": "/portfolio/static/css/main.dfa06630.css.map",
+    "main.ecc8d8b1.js.map": "/portfolio/static/js/main.ecc8d8b1.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abf6c05e.css",
-    "static/js/main.f6ec39cf.js"
+    "static/css/main.dfa06630.css",
+    "static/js/main.ecc8d8b1.js"
   ]
 }
