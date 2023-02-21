@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.dfa06630.css",
-    "main.js": "/portfolio/static/js/main.ecc8d8b1.js",
+    "main.css": "/portfolio/static/css/main.f53b4101.css",
+    "main.js": "/portfolio/static/js/main.3cd3df28.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/SF-Pro.ttf": "/portfolio/static/media/SF-Pro.2f9118d7e608bf94730c.ttf",
     "static/media/skills.png": "/portfolio/static/media/skills.e0d2ae684fb8eb0fa74b.png",
     "static/media/background2experiment.png": "/portfolio/static/media/background2experiment.302cb331c75926a7e6d1.png",
     "static/media/layeriza.png": "/portfolio/static/media/layeriza.b9978e72eae5245fa4fb.png",
@@ -20,6 +21,8 @@
     "static/media/cplus.png": "/portfolio/static/media/cplus.5185ce2f4c945505ee4f.png",
     "static/media/backgroundSE.png": "/portfolio/static/media/backgroundSE.6a808725892946b33d06.png",
     "static/media/MorantCapitals-ywyXm.ttf": "/portfolio/static/media/MorantCapitals-ywyXm.97a6f96bb26b063875c1.ttf",
+    "static/media/projectsCardHov.png": "/portfolio/static/media/projectsCardHov.254d0f5593ec1978c02c.png",
+    "static/media/projectsCard.png": "/portfolio/static/media/projectsCard.cc564d59759aee47491b.png",
     "static/media/BGRse.png": "/portfolio/static/media/BGRse.428759e31a3db9e8670b.png",
     "static/media/ExperienceCard.png": "/portfolio/static/media/ExperienceCard.9dc852174225a49de732.png",
     "static/media/css.png": "/portfolio/static/media/css.2b47413b7fdde930e789.png",
@@ -42,12 +45,12 @@
     "static/media/Hermes-Regular.otf": "/portfolio/static/media/Hermes-Regular.92c4dd68280f72a3430f.otf",
     "static/media/firebase.png": "/portfolio/static/media/firebase.a4156cb67d6d0676cffc.png",
     "index.html": "/portfolio/index.html",
-    "main.dfa06630.css.map": "/portfolio/static/css/main.dfa06630.css.map",
-    "main.ecc8d8b1.js.map": "/portfolio/static/js/main.ecc8d8b1.js.map",
+    "main.f53b4101.css.map": "/portfolio/static/css/main.f53b4101.css.map",
+    "main.3cd3df28.js.map": "/portfolio/static/js/main.3cd3df28.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfa06630.css",
-    "static/js/main.ecc8d8b1.js"
+    "static/css/main.f53b4101.css",
+    "static/js/main.3cd3df28.js"
   ]
 }
