@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f53b4101.css",
-    "main.js": "/portfolio/static/js/main.3cd3df28.js",
+    "main.css": "/portfolio/static/css/main.8d7b5937.css",
+    "main.js": "/portfolio/static/js/main.ea2b0d31.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/SF-Pro.ttf": "/portfolio/static/media/SF-Pro.2f9118d7e608bf94730c.ttf",
     "static/media/skills.png": "/portfolio/static/media/skills.e0d2ae684fb8eb0fa74b.png",
@@ -24,7 +24,7 @@
     "static/media/projectsCardHov.png": "/portfolio/static/media/projectsCardHov.254d0f5593ec1978c02c.png",
     "static/media/projectsCard.png": "/portfolio/static/media/projectsCard.cc564d59759aee47491b.png",
     "static/media/BGRse.png": "/portfolio/static/media/BGRse.428759e31a3db9e8670b.png",
-    "static/media/ExperienceCard.png": "/portfolio/static/media/ExperienceCard.9dc852174225a49de732.png",
+    "static/media/ExperienceCard.png": "/portfolio/static/media/ExperienceCard.d9240c5c415f429d4877.png",
     "static/media/css.png": "/portfolio/static/media/css.2b47413b7fdde930e789.png",
     "static/media/freetime.png": "/portfolio/static/media/freetime.4b84acc3fd15415c7b8b.png",
     "static/media/AndroidStudio.png": "/portfolio/static/media/AndroidStudio.b86fa566121eff57db40.png",
@@ -45,12 +45,12 @@
     "static/media/Hermes-Regular.otf": "/portfolio/static/media/Hermes-Regular.92c4dd68280f72a3430f.otf",
     "static/media/firebase.png": "/portfolio/static/media/firebase.a4156cb67d6d0676cffc.png",
     "index.html": "/portfolio/index.html",
-    "main.f53b4101.css.map": "/portfolio/static/css/main.f53b4101.css.map",
-    "main.3cd3df28.js.map": "/portfolio/static/js/main.3cd3df28.js.map",
+    "main.8d7b5937.css.map": "/portfolio/static/css/main.8d7b5937.css.map",
+    "main.ea2b0d31.js.map": "/portfolio/static/js/main.ea2b0d31.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f53b4101.css",
-    "static/js/main.3cd3df28.js"
+    "static/css/main.8d7b5937.css",
+    "static/js/main.ea2b0d31.js"
   ]
 }
