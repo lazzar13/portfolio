@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.415d0ad2.css",
-    "main.js": "/portfolio/static/js/main.3fb7c416.js",
+    "main.css": "/portfolio/static/css/main.24bfe70d.css",
+    "main.js": "/portfolio/static/js/main.a8054f46.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/SF-Pro.ttf": "/portfolio/static/media/SF-Pro.2f9118d7e608bf94730c.ttf",
     "static/media/skills.png": "/portfolio/static/media/skills.e0d2ae684fb8eb0fa74b.png",
@@ -45,6 +45,7 @@
     "static/media/java.png": "/portfolio/static/media/java.12f9f5c9bddc6b4cfa30.png",
     "static/media/tourout.png": "/portfolio/static/media/tourout.f9db3fefca30390c38b0.png",
     "static/media/work.png": "/portfolio/static/media/work.e14b0bb3d0624bcc8e9b.png",
+    "static/media/jewe.png": "/portfolio/static/media/jewe.cd882f9c311e95eced60.png",
     "static/media/film.png": "/portfolio/static/media/film.ab8ff47bdf2dd6db7608.png",
     "static/media/html.png": "/portfolio/static/media/html.0cf240a79cc4fc9414a8.png",
     "static/media/college.png": "/portfolio/static/media/college.6650c95498652a8c87f4.png",
@@ -52,12 +53,12 @@
     "static/media/Hermes-Regular.otf": "/portfolio/static/media/Hermes-Regular.92c4dd68280f72a3430f.otf",
     "static/media/firebase.png": "/portfolio/static/media/firebase.a4156cb67d6d0676cffc.png",
     "index.html": "/portfolio/index.html",
-    "main.415d0ad2.css.map": "/portfolio/static/css/main.415d0ad2.css.map",
-    "main.3fb7c416.js.map": "/portfolio/static/js/main.3fb7c416.js.map",
+    "main.24bfe70d.css.map": "/portfolio/static/css/main.24bfe70d.css.map",
+    "main.a8054f46.js.map": "/portfolio/static/js/main.a8054f46.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.415d0ad2.css",
-    "static/js/main.3fb7c416.js"
+    "static/css/main.24bfe70d.css",
+    "static/js/main.a8054f46.js"
   ]
 }
