@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d78f6250.css",
+    "main.css": "/portfolio/static/css/main.de927205.css",
     "main.js": "/portfolio/static/js/main.4b2efbb8.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/SF-Pro.ttf": "/portfolio/static/media/SF-Pro.2f9118d7e608bf94730c.ttf",
     "static/media/skills.png": "/portfolio/static/media/skills.e0d2ae684fb8eb0fa74b.png",
     "static/media/BGRse.png": "/portfolio/static/media/BGRse.48ff41ae0f323119a7bd.png",
     "static/media/beat.PNG": "/portfolio/static/media/beat.5c4437a3eb81f5f66bdb.PNG",
+    "static/media/ProjectsSE.png": "/portfolio/static/media/ProjectsSE.ac17b00f25ce001b919d.png",
     "static/media/background2experiment.png": "/portfolio/static/media/background2experiment.302cb331c75926a7e6d1.png",
-    "static/media/ExperienceSE.png": "/portfolio/static/media/ExperienceSE.b36e82a786ac331e754d.png",
+    "static/media/ExperienceSE.png": "/portfolio/static/media/ExperienceSE.a089a6a59281a9e3c528.png",
     "static/media/layeriza.png": "/portfolio/static/media/layeriza.b9978e72eae5245fa4fb.png",
     "static/media/backgroundBig.png": "/portfolio/static/media/backgroundBig.ac04ba6b561aab192781.png",
     "static/media/background2.png": "/portfolio/static/media/background2.7790d01a048ec0acb3a1.png",
@@ -55,12 +56,12 @@
     "static/media/Hermes-Regular.otf": "/portfolio/static/media/Hermes-Regular.92c4dd68280f72a3430f.otf",
     "static/media/firebase.png": "/portfolio/static/media/firebase.a4156cb67d6d0676cffc.png",
     "index.html": "/portfolio/index.html",
-    "main.d78f6250.css.map": "/portfolio/static/css/main.d78f6250.css.map",
+    "main.de927205.css.map": "/portfolio/static/css/main.de927205.css.map",
     "main.4b2efbb8.js.map": "/portfolio/static/js/main.4b2efbb8.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d78f6250.css",
+    "static/css/main.de927205.css",
     "static/js/main.4b2efbb8.js"
   ]
 }
