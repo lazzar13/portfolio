@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.de927205.css",
-    "main.js": "/portfolio/static/js/main.4b2efbb8.js",
+    "main.css": "/portfolio/static/css/main.0a5098ba.css",
+    "main.js": "/portfolio/static/js/main.69b939d8.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/SF-Pro.ttf": "/portfolio/static/media/SF-Pro.2f9118d7e608bf94730c.ttf",
     "static/media/skills.png": "/portfolio/static/media/skills.e0d2ae684fb8eb0fa74b.png",
@@ -17,11 +17,15 @@
     "static/media/skillsSE.png": "/portfolio/static/media/skillsSE.e4077dd1c1330b8eb863.png",
     "static/media/background.png": "/portfolio/static/media/background.598eab0d9bfb922e46c6.png",
     "static/media/background1.png": "/portfolio/static/media/background1.28a49ce6e207db6371c7.png",
+    "static/media/selfie.jpeg": "/portfolio/static/media/selfie.115a0131916522db0e03.jpeg",
     "static/media/python.png": "/portfolio/static/media/python.77e1249ce534c23fdde8.png",
+    "static/media/bgrXR.png": "/portfolio/static/media/bgrXR.1a9275782ccf7d6a9263.png",
     "static/media/education.png": "/portfolio/static/media/education.0547bab468c697ffc11a.png",
     "static/media/NBAPlayer.png": "/portfolio/static/media/NBAPlayer.ce3d606d242a662edbab.png",
-    "static/media/SchoolSE.png": "/portfolio/static/media/SchoolSE.c4fd29d5e3eaf46849f3.png",
+    "static/media/SchoolSE.png": "/portfolio/static/media/SchoolSE.1b79dd46dbc922bcbeca.png",
     "static/media/zvezdeSE.png": "/portfolio/static/media/zvezdeSE.08f51552cbbf25c2c337.png",
+    "static/media/zvezdeXR.png": "/portfolio/static/media/zvezdeXR.305eef82e17ab6313331.png",
+    "static/media/backgroundXR.png": "/portfolio/static/media/backgroundXR.1d2620a0620b10be7ace.png",
     "static/media/react.png": "/portfolio/static/media/react.8a6fc0a24a800d1e0f4a.png",
     "static/media/experience.png": "/portfolio/static/media/experience.fb12a61ae3b68697985b.png",
     "static/media/backgroundSE.png": "/portfolio/static/media/backgroundSE.a4760c35e102969ec066.png",
@@ -56,12 +60,12 @@
     "static/media/Hermes-Regular.otf": "/portfolio/static/media/Hermes-Regular.92c4dd68280f72a3430f.otf",
     "static/media/firebase.png": "/portfolio/static/media/firebase.a4156cb67d6d0676cffc.png",
     "index.html": "/portfolio/index.html",
-    "main.de927205.css.map": "/portfolio/static/css/main.de927205.css.map",
-    "main.4b2efbb8.js.map": "/portfolio/static/js/main.4b2efbb8.js.map",
+    "main.0a5098ba.css.map": "/portfolio/static/css/main.0a5098ba.css.map",
+    "main.69b939d8.js.map": "/portfolio/static/js/main.69b939d8.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de927205.css",
-    "static/js/main.4b2efbb8.js"
+    "static/css/main.0a5098ba.css",
+    "static/js/main.69b939d8.js"
   ]
 }
