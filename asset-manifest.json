@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.096ba7f5.css",
-    "main.js": "/portfolio/static/js/main.872f502e.js",
+    "main.css": "/portfolio/static/css/main.b560af46.css",
+    "main.js": "/portfolio/static/js/main.e1ae1a27.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/SF-Pro.ttf": "/portfolio/static/media/SF-Pro.2f9118d7e608bf94730c.ttf",
     "static/media/skills.png": "/portfolio/static/media/skills.e0d2ae684fb8eb0fa74b.png",
@@ -20,16 +20,19 @@
     "static/media/selfie.jpeg": "/portfolio/static/media/selfie.115a0131916522db0e03.jpeg",
     "static/media/python.png": "/portfolio/static/media/python.77e1249ce534c23fdde8.png",
     "static/media/bgrXR.png": "/portfolio/static/media/bgrXR.1a9275782ccf7d6a9263.png",
+    "static/media/testtest.png": "/portfolio/static/media/testtest.d226dddf0f766720cf89.png",
     "static/media/education.png": "/portfolio/static/media/education.0547bab468c697ffc11a.png",
     "static/media/NBAPlayer.png": "/portfolio/static/media/NBAPlayer.ce3d606d242a662edbab.png",
     "static/media/SchoolSE.png": "/portfolio/static/media/SchoolSE.1b79dd46dbc922bcbeca.png",
     "static/media/zvezdeSE.png": "/portfolio/static/media/zvezdeSE.08f51552cbbf25c2c337.png",
     "static/media/zvezdeXR.png": "/portfolio/static/media/zvezdeXR.305eef82e17ab6313331.png",
+    "static/media/Untitled-5.png": "/portfolio/static/media/Untitled-5.68fec618e7e6f2ff3237.png",
     "static/media/backgroundXR.png": "/portfolio/static/media/backgroundXR.1d2620a0620b10be7ace.png",
     "static/media/react.png": "/portfolio/static/media/react.8a6fc0a24a800d1e0f4a.png",
     "static/media/experience.png": "/portfolio/static/media/experience.fb12a61ae3b68697985b.png",
     "static/media/backgroundSE.png": "/portfolio/static/media/backgroundSE.a4760c35e102969ec066.png",
     "static/media/regent.png": "/portfolio/static/media/regent.995e59fe940f48fc2363.png",
+    "static/media/testtestSE.png": "/portfolio/static/media/testtestSE.8d48bf7beb1b39fdad1b.png",
     "static/media/cplus.png": "/portfolio/static/media/cplus.5185ce2f4c945505ee4f.png",
     "static/media/MorantCapitals-ywyXm.ttf": "/portfolio/static/media/MorantCapitals-ywyXm.97a6f96bb26b063875c1.ttf",
     "static/media/projectsCardHov.png": "/portfolio/static/media/projectsCardHov.254d0f5593ec1978c02c.png",
@@ -60,12 +63,12 @@
     "static/media/Hermes-Regular.otf": "/portfolio/static/media/Hermes-Regular.92c4dd68280f72a3430f.otf",
     "static/media/firebase.png": "/portfolio/static/media/firebase.a4156cb67d6d0676cffc.png",
     "index.html": "/portfolio/index.html",
-    "main.096ba7f5.css.map": "/portfolio/static/css/main.096ba7f5.css.map",
-    "main.872f502e.js.map": "/portfolio/static/js/main.872f502e.js.map",
+    "main.b560af46.css.map": "/portfolio/static/css/main.b560af46.css.map",
+    "main.e1ae1a27.js.map": "/portfolio/static/js/main.e1ae1a27.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.096ba7f5.css",
-    "static/js/main.872f502e.js"
+    "static/css/main.b560af46.css",
+    "static/js/main.e1ae1a27.js"
   ]
 }
