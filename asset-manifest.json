@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4c18f1c8.css",
+    "main.css": "/portfolio/static/css/main.be35b3f7.css",
     "main.js": "/portfolio/static/js/main.a4096575.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/SF-Pro.ttf": "/portfolio/static/media/SF-Pro.2f9118d7e608bf94730c.ttf",
@@ -33,8 +33,8 @@
     "static/media/backgroundSE.png": "/portfolio/static/media/backgroundSE.a4760c35e102969ec066.png",
     "static/media/regent.png": "/portfolio/static/media/regent.995e59fe940f48fc2363.png",
     "static/media/testtestSE.png": "/portfolio/static/media/testtestSE.4461ac00f5b29adbcaa3.png",
-    "static/media/BackgroundSS.png": "/portfolio/static/media/BackgroundSS.7eb38d67e6359e1f7e0f.png",
     "static/media/cplus.png": "/portfolio/static/media/cplus.5185ce2f4c945505ee4f.png",
+    "static/media/BackgroundSS.png": "/portfolio/static/media/BackgroundSS.e198b41411c0addcfac7.png",
     "static/media/MorantCapitals-ywyXm.ttf": "/portfolio/static/media/MorantCapitals-ywyXm.97a6f96bb26b063875c1.ttf",
     "static/media/projectsCardHov.png": "/portfolio/static/media/projectsCardHov.254d0f5593ec1978c02c.png",
     "static/media/projectsCard.png": "/portfolio/static/media/projectsCard.cc564d59759aee47491b.png",
@@ -64,12 +64,12 @@
     "static/media/Hermes-Regular.otf": "/portfolio/static/media/Hermes-Regular.92c4dd68280f72a3430f.otf",
     "static/media/firebase.png": "/portfolio/static/media/firebase.a4156cb67d6d0676cffc.png",
     "index.html": "/portfolio/index.html",
-    "main.4c18f1c8.css.map": "/portfolio/static/css/main.4c18f1c8.css.map",
+    "main.be35b3f7.css.map": "/portfolio/static/css/main.be35b3f7.css.map",
     "main.a4096575.js.map": "/portfolio/static/js/main.a4096575.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c18f1c8.css",
+    "static/css/main.be35b3f7.css",
     "static/js/main.a4096575.js"
   ]
 }
