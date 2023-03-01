@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.bdabff2d.css",
+    "main.css": "/portfolio/static/css/main.e407b22d.css",
     "main.js": "/portfolio/static/js/main.9e6b71b9.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/SF-Pro.ttf": "/portfolio/static/media/SF-Pro.2f9118d7e608bf94730c.ttf",
@@ -30,7 +30,7 @@
     "static/media/zvezdeSE.png": "/portfolio/static/media/zvezdeSE.08f51552cbbf25c2c337.png",
     "static/media/wp.png": "/portfolio/static/media/wp.9d53fe7e91a36cc86a31.png",
     "static/media/zvezdeXR.png": "/portfolio/static/media/zvezdeXR.305eef82e17ab6313331.png",
-    "static/media/backgroundXR.png": "/portfolio/static/media/backgroundXR.e5c4ddb89c12a21a54f2.png",
+    "static/media/backgroundXR.png": "/portfolio/static/media/backgroundXR.bba897326145bae95197.png",
     "static/media/react.png": "/portfolio/static/media/react.8a6fc0a24a800d1e0f4a.png",
     "static/media/backgroundSE.png": "/portfolio/static/media/backgroundSE.a4760c35e102969ec066.png",
     "static/media/regent.png": "/portfolio/static/media/regent.995e59fe940f48fc2363.png",
@@ -69,12 +69,12 @@
     "static/media/Hermes-Regular.otf": "/portfolio/static/media/Hermes-Regular.92c4dd68280f72a3430f.otf",
     "static/media/firebase.png": "/portfolio/static/media/firebase.a4156cb67d6d0676cffc.png",
     "index.html": "/portfolio/index.html",
-    "main.bdabff2d.css.map": "/portfolio/static/css/main.bdabff2d.css.map",
+    "main.e407b22d.css.map": "/portfolio/static/css/main.e407b22d.css.map",
     "main.9e6b71b9.js.map": "/portfolio/static/js/main.9e6b71b9.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdabff2d.css",
+    "static/css/main.e407b22d.css",
     "static/js/main.9e6b71b9.js"
   ]
 }
