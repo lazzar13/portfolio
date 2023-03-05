@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e5fbbe72.css",
-    "main.js": "/portfolio/static/js/main.2ddbce78.js",
+    "main.css": "/portfolio/static/css/main.466ceb17.css",
+    "main.js": "/portfolio/static/js/main.0f8ee503.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/SF-Pro.ttf": "/portfolio/static/media/SF-Pro.2f9118d7e608bf94730c.ttf",
     "static/media/skills.png": "/portfolio/static/media/skills.e0d2ae684fb8eb0fa74b.png",
@@ -11,7 +11,6 @@
     "static/media/layeriza.png": "/portfolio/static/media/layeriza.eaa00793fbde3e1d6df2.png",
     "static/media/beat.PNG": "/portfolio/static/media/beat.c72a61e2161983f0b015.PNG",
     "static/media/bgrTablet.png": "/portfolio/static/media/bgrTablet.7da1163748e46c6c8ec9.png",
-    "static/media/NBAPlayer.png": "/portfolio/static/media/NBAPlayer.ce3d606d242a662edbab.png",
     "static/media/education.png": "/portfolio/static/media/education.d0cb9947ed6464da6edb.png",
     "static/media/ProjectsSE.png": "/portfolio/static/media/ProjectsSE.92284b37187e46c0f452.png",
     "static/media/background1.png": "/portfolio/static/media/background1.8f0cedcfa88d85883b28.png",
@@ -56,12 +55,12 @@
     "static/media/java.png": "/portfolio/static/media/java.aa580aaebb34b84a86df.png",
     "static/media/certificate.png": "/portfolio/static/media/certificate.3e6cd4accd9de9034042.png",
     "index.html": "/portfolio/index.html",
-    "main.e5fbbe72.css.map": "/portfolio/static/css/main.e5fbbe72.css.map",
-    "main.2ddbce78.js.map": "/portfolio/static/js/main.2ddbce78.js.map",
+    "main.466ceb17.css.map": "/portfolio/static/css/main.466ceb17.css.map",
+    "main.0f8ee503.js.map": "/portfolio/static/js/main.0f8ee503.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5fbbe72.css",
-    "static/js/main.2ddbce78.js"
+    "static/css/main.466ceb17.css",
+    "static/js/main.0f8ee503.js"
   ]
 }
