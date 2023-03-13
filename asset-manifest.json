@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3157f975.css",
-    "main.js": "/portfolio/static/js/main.8ccb83e3.js",
+    "main.css": "/portfolio/static/css/main.bd776f91.css",
+    "main.js": "/portfolio/static/js/main.1020d3c6.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/SF-Pro.ttf": "/portfolio/static/media/SF-Pro.2f9118d7e608bf94730c.ttf",
     "static/media/skills.png": "/portfolio/static/media/skills.e0d2ae684fb8eb0fa74b.png",
@@ -53,16 +53,17 @@
     "static/media/freetime.png": "/portfolio/static/media/freetime.e42dc359d53e04a35e23.png",
     "static/media/Hermes-Regular.otf": "/portfolio/static/media/Hermes-Regular.92c4dd68280f72a3430f.otf",
     "static/media/layeriza.png": "/portfolio/static/media/layeriza.dfa84f1f8cc92fa58cd6.png",
+    "static/media/marker.png": "/portfolio/static/media/marker.e3a47aca8890319e1175.png",
     "static/media/wip.png": "/portfolio/static/media/wip.3fbdb018a2897d21a8ad.png",
     "static/media/java.png": "/portfolio/static/media/java.aa580aaebb34b84a86df.png",
     "static/media/certificate.png": "/portfolio/static/media/certificate.3e6cd4accd9de9034042.png",
     "index.html": "/portfolio/index.html",
-    "main.3157f975.css.map": "/portfolio/static/css/main.3157f975.css.map",
-    "main.8ccb83e3.js.map": "/portfolio/static/js/main.8ccb83e3.js.map",
+    "main.bd776f91.css.map": "/portfolio/static/css/main.bd776f91.css.map",
+    "main.1020d3c6.js.map": "/portfolio/static/js/main.1020d3c6.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3157f975.css",
-    "static/js/main.8ccb83e3.js"
+    "static/css/main.bd776f91.css",
+    "static/js/main.1020d3c6.js"
   ]
 }
